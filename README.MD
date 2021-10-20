@@ -14,7 +14,7 @@
 I have been messing with computers since I was a kid, starting with finding creative ways to get past my parents passwords on the family computer, to diving into the world of offensive security, and OSINT. Starting with Windows and then falling in love with the Linux Kernel and all that it has to offer. <br>
 </p>
 
-<h2 align="center">:wrench: 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝙰𝚛𝚜𝚎𝚗𝚊𝚕𝚜 :wrench:</h2>
+<h2 align="center">:wrench: My 𝙰𝚛𝚜𝚎𝚗𝚊𝚕� :wrench:</h2>
 
 <p align=center>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
