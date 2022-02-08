@@ -7,7 +7,7 @@
 <h2 align="center">Automate Everything!</h2>
 
 <p align=center>
-I have been messing with computers since I was a kid, starting with finding creative ways to get past my parents passwords on the family computer, to diving into the world of offensive security, and OSINT. Starting with Windows and then falling in love with the Linux Kernel and all that it has to offer. <br>
+Since I was a kid, I have been messing with computers, starting with finding creative ways to get past my parent's passwords on the family computer to diving into the world of offensive security and OSINT. After that, beginning with Windows and then fell in love with Linux. <br>
 </p>
 
 <h2 align="center">:wrench: My 𝙰𝚛𝚜𝚎𝚗𝚊𝚕 :wrench:</h2>
