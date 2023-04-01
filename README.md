@@ -6,7 +6,7 @@ I'm a huge nerd 🤓, probably one of those people who some think is speaking an
 
 ### 🌟 What I'm passionate about
 
-- 🔭 Developing innovative solutions and automations
+- 🔭 Developing innovative solutions and automation's
 - 🌱 Learning new technologies and staying up-to-date with the latest trends
 - 👯 Collaborating with other developers and contributing to open-source projects
 - 🤔 Helping others and sharing my knowledge with the community
