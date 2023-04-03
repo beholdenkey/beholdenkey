@@ -34,6 +34,10 @@ I'm a huge nerd 🤓, probably one of those people who some think is speaking an
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
+## Contributor
+
+![GitHub Tag Action](https://github.com/anothrNick/github-tag-action)
+
 ## 📫 Get in touch
 
 Feel free to reach out to me for collaboration, mentorship, or just a friendly chat!
