@@ -2,7 +2,11 @@
 
 ## 🚀 Innovator, Entrepreneur, and Developer
 
-I'm a huge nerd 🤓, probably one of those people who some think is speaking another language entirely, but for those who know, you know. I enjoy developing new ways to automate and constantly looking for new projects to add to my platform for development and testing.
+- 🌱 I’m building my portfolio of automated solutions and applications - check out my organization: [Crucible-Labs](https://github.com/crucible-labs)
+
+Feel free to reach out to me for collaboration, mentorship, or just a friendly chat!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/beholdenkey/)
 
 ### 🌟 What I'm passionate about
 
@@ -10,8 +14,6 @@ I'm a huge nerd 🤓, probably one of those people who some think is speaking an
 - 🌱 Learning new technologies and staying up-to-date with the latest trends
 - 👯 Collaborating with other developers and contributing to open-source projects
 - 🤔 Helping others and sharing my knowledge with the community
-
-![Beholdenkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=beholdenkey&show_icons=true&theme=radical)
 
 ## 🛠️ Technologies, Tools & Applications
 
@@ -34,16 +36,14 @@ I'm a huge nerd 🤓, probably one of those people who some think is speaking an
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-## Active Contributor
+---
 
-I am an active contributor for the following projects:
+### :fire: My Stats
 
-![GitHub Tag Action](https://github.com/anothrNick/github-tag-action)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=beholdenkey&show_icons=true&theme=codeSTACKr&count_private=true")](https://github.com/beholdenkey/beholdenkey)
 
-## 📫 Get in touch
+[![GitHub Streak](https://streak-stats.demolab.com?user=beholdenkey&theme=elegant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700)](https://git.io/streak-stats)
 
-Feel free to reach out to me for collaboration, mentorship, or just a friendly chat!
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=beholdenkey&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20)](https://github.com/beholdenkey/beholdenkey)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/beholdenkey/)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=beholdenkey.beholdenkey)
+---
