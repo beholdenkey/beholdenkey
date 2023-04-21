@@ -25,7 +25,7 @@ Feel free to reach out to me for collaboration, mentorship, or just a friendly c
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![Packer](https://img.shields.io/badge/-Packer-623CE4?style=flat-square&logo=packer&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white)
-![xcp-ng](https://img.shields.io/badge/-xcp--ng-FF6600?style=flat-square&logo=xcp-ng&logoColor=white)
+![VMWare](https://img.shields.io/badge/-VMWare-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
