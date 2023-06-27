@@ -43,7 +43,4 @@ Feel free to reach out to me for collaboration, mentorship, or just a friendly c
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=beholdenkey&show_icons=true&theme=codeSTACKr&count_private=true")](https://github.com/beholdenkey/beholdenkey)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=beholdenkey&theme=elegant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700)](https://git.io/streak-stats)
-
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=beholdenkey&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20)](https://github.com/beholdenkey/beholdenkey)
-
 ---
