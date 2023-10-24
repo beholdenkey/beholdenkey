@@ -2,12 +2,6 @@
 
 ## 🚀 Innovator, Entrepreneur, and Developer
 
-- 🌱 I’m building my portfolio of automated solutions and applications - check out my organization: [Apeiros](http://apeiros.io/)
-
-Feel free to reach out to me for collaboration, mentorship, or just a friendly chat!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/beholdenkey/)
-
 ### 🌟 What I'm passionate about
 
 - 🔭 Developing innovative solutions and automation's
