@@ -1,6 +1,4 @@
-# Welcome to the Crucible, I'm [Beholdenkey](https://github.com/beholdenkey)
-
-## 🚀 Innovator, Entrepreneur, and Developer
+# I'm [Beholdenkey](https://github.com/beholdenkey)
 
 ### 🌟 What I'm passionate about
 
