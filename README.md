@@ -2,7 +2,7 @@
 
 ## Justin Bailey | Senior Site Reliability Engineer @ Striveworks
 
-I am a Senior Site Reliability Engineer & DevSecOps Engineer specializing in designing, building, and automating robust internal developer platforms (IDP).
+I am a Senior Site Reliability Engineer & DevSecOps Engineer specializing in designing, building, and automating robust internal developer platforms (IDP), Multi-Cluster Kubernetes (K8s) environments in [disconnected, intermittent, and low-bandwidth (DIL) environments](https://ieeexplore.ieee.org/document/6127428).
 
 ![Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beholdenkey&theme=2077)
 
