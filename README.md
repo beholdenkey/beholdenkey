@@ -13,12 +13,6 @@ I am a Senior Site Reliability Engineer & DevSecOps Engineer specializing in des
 
 ---
 
-## Current Personal Projects
-
-- [Forge Package K3d](https://github.com/beholdenkey/forge-package-k3d): A project focused on simplifying the deployment of Kubernetes clusters using K3d.
-
----
-
 ## Active Contributing Projects
 
 - [KCL](https://www.kcl-lang.io/): Contributing to the KCL language, a constraint-based record & functional language.
