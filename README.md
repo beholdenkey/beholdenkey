@@ -15,7 +15,7 @@ I am a Senior Site Reliability Engineer & DevSecOps Engineer specializing in des
 
 ## My Projects
 
-- [kubedocs](https://github.com/beholdenkey/kubedocs)
+- [kubedocs](https://github.com/beholdenkey/kubedocs): A CLI to create user-friendly reference documentation for Kubernetes Custom Resource Definitions (CRDs) and Crossplane Composite Resource Definitions (XRDs)
 
 ## Active Contributing Projects
 
