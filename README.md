@@ -2,7 +2,7 @@
 
 ## Justin Bailey | Software Engineer | Kubernetes & [Crossplane](https://www.crossplane.io/) Evangelist
 
-I am a Senior Site Reliability Engineer & DevSecOps Engineer specializing in designing, building, and automating robust internal developer platforms (IDP), Multi-Cluster Kubernetes (K8s) environments in [disconnected, intermittent, and low-bandwidth (DIL) environments](https://ieeexplore.ieee.org/document/6127428).
+I am a Software Engineer specializing in designing, building, and automating robust internal developer platforms (IDP), Multi-Cluster Kubernetes (K8s) environments in [disconnected, intermittent, and low-bandwidth (DIL) environments](https://ieeexplore.ieee.org/document/6127428).
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beholdenkey&theme=2077" alt="Profile Summary Card" style="width: 100%; max-width: 600px; margin-bottom: 10px;">
