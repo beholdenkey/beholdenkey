@@ -15,7 +15,7 @@ I am a Software Engineer specializing in designing, building, and automating rob
 
 ## My Projects
 
-- [ImageSage](https://github.com/beholdenkey/imagesafe): A personal collection of secure container images that eliminate CVEs from the start.
+- [ImageSafe](https://github.com/beholdenkey/imagesafe): A personal collection of secure container images that eliminate CVEs from the start.
 - [kubedocs](https://github.com/beholdenkey/kubedocs): A command line interface to create user-friendly reference documentation for Kubernetes Custom Resource Definitions (CRDs) and Crossplane Composite Resource Definitions (XRDs).
 
 ## Active Contributing Projects
