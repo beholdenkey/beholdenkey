@@ -16,12 +16,12 @@ I am a Software Engineer specializing in designing, building, and automating rob
 ## My Projects
 
 - [ImageSafe](https://github.com/beholdenkey/imagesafe): A personal collection of secure container images that eliminate CVEs from the start.
-- [kubedocs](https://github.com/beholdenkey/kubedocs): A command line interface to create user-friendly reference documentation for Kubernetes Custom Resource Definitions (CRDs) and Crossplane Composite Resource Definitions (XRDs).
+- [Harvester HCI Terraform Modules](https://github.com/beholdenkey/terraform-harvester-vm): Terraform module which create Virtual Machine resource on Harvester
+
 
 ## Active Contributing Projects
 
 - [KCL](https://www.kcl-lang.io/): Contributing to the KCL language, a constraint-based record & functional language.
-- [Zarf](https://zarf.dev/): Contributing to Zarf, a tool for managing air-gapped software delivery.
 
 ---
 
