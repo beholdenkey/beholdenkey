@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Justin Bailey | Software Engineer | Innovator & Problem Solver
+## Software Engineer | Innovator & Problem Solver
 
 I am a Software Engineer specializing in designing and building developer platforms and Multi-Cluster Kubernetes (K8s) environments in [disconnected, intermittent, and low-bandwidth (DIL) environments](https://ieeexplore.ieee.org/document/6127428). If you are interested in learning more, please feel free to check out my blog at [https://blog.beholdenkey.com](https://blog.beholdenkey.com).
 
